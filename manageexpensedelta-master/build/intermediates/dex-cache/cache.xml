@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\57e06890cfb5da8aa5fb5324fef835091e4044d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_262c1403d32505557274a39019ecdd6adadf4d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\a65ace12d92a767f2c722dc64a5204498014de12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87b1bbcbb7ed73dfc5c1e4a2908e3d053d005f67">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_ad17819602725470482a4566b0e04f875326ce98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\2d45e11555f9344a1401fb2e8a8ec4d66afe82a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_207ad62cf301a87a37cd5b1cccf45da896e50a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_95f9dbfb737836255dca5d41691a59528d0559e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\760d22aed3c18622935cddf22b422625afc286cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_73f452c21c8214f3c0fc286e1e7c42bcdc1764e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.3_42e5745514619aeab0690a9e0ec155e68c7d5c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\a9fc5da18e969ed316e4533f9019f8430d93b0f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5c833fd791609de66f1c0e66be8b6d6c5afec87">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_3a954759c29428250e9fed98520a3029a100a53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\30f2f43ec864abf8346ab0aaff0ec8419c249c36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_da7a8a4008f720dd6e90baac9a145d798cde2169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\e478061f7dcc2ec9355cb51881d22f669c53e17e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3629dcd0fab77d5d5916a2cc670998af69eca298">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_6f83553620520488193ce09a28451847e075d125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\08e4fb49154634cb756eb18026bb3e4f3f71cbe9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_c276fa3dbf72b42e734c68f5edadc7521871f98e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\64fa9da28d1b1eea174f4195be54d97abaed9f31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_de13e75121b34106642a1e03bb5a1565a8cdd480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\e08b7cc1b6e25279ace83b9b0d8a88dc29e5ea1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_16305b23634dfd9d0e470b16f19b4748d7319ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\9906f1ff1cd274ac78c28aa59c1aa04e812cb362\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_dab702c250dd773e3befbab370d3cbb4b68f8cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\d9d5bf9b9ac042721f3727b993b3ac4c8219d4a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_8a180ad370c9dd9cae07cc617035a0e176a20a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\caedf2fee0ab016fdbe1f672f44755a9e19e8a0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_ae742c34e0cdd7c1bb5554b9d0dd2f7a9f836c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\1e1016aa8c29db2c86c1de59a90dc67a86602ed3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_015657e05814a1866a93a8c18bf6a90a8674d48a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\d0dc8856f788475e901fd3d99aee983f7724602b\MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0dc8856f788475e901fd3d99aee983f7724602b">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.1_95629d510a3af52f8a63de44ee57c66e9e4001a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\a0c038af3d23e72f6f6894625b3e79f694df4f5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_e22e28c209b1d1a6feafd0c58a936aea8723cc91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\.android\build-cache\33672a8cdc755dfeabf98926d6791727b3b23220\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\classes_fe9727528e702b782aa9a7f9b0fb314c4321a48e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\libs\GraphView-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\build\intermediates\pre-dexed\debug\GraphView-4.2.1_28fa00531df0105fc46a0e5354e8e6ca1a443d49.jar" />
+    </item>
+
+</items>

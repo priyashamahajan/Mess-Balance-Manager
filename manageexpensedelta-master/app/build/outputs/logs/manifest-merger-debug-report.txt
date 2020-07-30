@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:5:5-12:24
+application
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:14:5-84:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Revant\.android\build-cache\d9d5bf9b9ac042721f3727b993b3ac4c8219d4a8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\Revant\.android\build-cache\1e1016aa8c29db2c86c1de59a90dc67a86602ed3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Revant\.android\build-cache\e08b7cc1b6e25279ace83b9b0d8a88dc29e5ea1b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] C:\Users\Revant\.android\build-cache\e478061f7dcc2ec9355cb51881d22f669c53e17e\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Revant\.android\build-cache\33672a8cdc755dfeabf98926d6791727b3b23220\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Revant\.android\build-cache\760d22aed3c18622935cddf22b422625afc286cc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Revant\.android\build-cache\2d45e11555f9344a1401fb2e8a8ec4d66afe82a9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Revant\.android\build-cache\9906f1ff1cd274ac78c28aa59c1aa04e812cb362\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Revant\.android\build-cache\08e4fb49154634cb756eb18026bb3e4f3f71cbe9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Revant\.android\build-cache\57e06890cfb5da8aa5fb5324fef835091e4044d5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Revant\.android\build-cache\a0c038af3d23e72f6f6894625b3e79f694df4f5e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Revant\.android\build-cache\64fa9da28d1b1eea174f4195be54d97abaed9f31\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Revant\.android\build-cache\30f2f43ec864abf8346ab0aaff0ec8419c249c36\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:17:9-45
+	android:supportsRtl
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:16:9-37
+	android:theme
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.jasper.manageexpense.main_mess
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:21:9-47
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:21:19-44
+activity#com.example.jasper.manageexpense.MainActivity
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:24:13-49
+	android:theme
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.jasper.manageexpense.Tab1
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:34:13-49
+	android:theme
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:33:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:36:13-40:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:39:27-73
+activity#com.example.jasper.manageexpense.Tab2
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:44:13-49
+	android:theme
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:43:13-33
+activity#com.example.jasper.manageexpense.Update_AddExpense
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:53:9-62:20
+	android:label
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:55:13-49
+	android:theme
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:54:13-46
+activity#com.example.jasper.manageexpense.Update_Addcategory
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:64:9-73:20
+	android:label
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:66:13-49
+	android:theme
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:65:13-47
+activity#com.example.jasper.manageexpense.Setting
+ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:74:9-83:20
+	android:label
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:76:13-49
+	android:theme
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml:75:13-36
+uses-sdk
+INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Revant\.android\build-cache\d9d5bf9b9ac042721f3727b993b3ac4c8219d4a8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\Revant\.android\build-cache\1e1016aa8c29db2c86c1de59a90dc67a86602ed3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Revant\.android\build-cache\caedf2fee0ab016fdbe1f672f44755a9e19e8a0d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Revant\.android\build-cache\e08b7cc1b6e25279ace83b9b0d8a88dc29e5ea1b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.desarrollodroide:fragmenttransactionextended:1] C:\Users\Revant\.android\build-cache\a65ace12d92a767f2c722dc64a5204498014de12\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.QuadFlask:colorpicker:0.0.13] C:\Users\Revant\.android\build-cache\e478061f7dcc2ec9355cb51881d22f669c53e17e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Revant\.android\build-cache\33672a8cdc755dfeabf98926d6791727b3b23220\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Revant\.android\build-cache\760d22aed3c18622935cddf22b422625afc286cc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Revant\.android\build-cache\2d45e11555f9344a1401fb2e8a8ec4d66afe82a9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Revant\.android\build-cache\9906f1ff1cd274ac78c28aa59c1aa04e812cb362\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Revant\.android\build-cache\08e4fb49154634cb756eb18026bb3e4f3f71cbe9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Revant\.android\build-cache\57e06890cfb5da8aa5fb5324fef835091e4044d5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Revant\.android\build-cache\a0c038af3d23e72f6f6894625b3e79f694df4f5e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Revant\.android\build-cache\64fa9da28d1b1eea174f4195be54d97abaed9f31\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Revant\.android\build-cache\30f2f43ec864abf8346ab0aaff0ec8419c249c36\output\AndroidManifest.xml:21:5-23:58
+MERGED from [net.margaritov.preference.colorpicker.ColorPickerPreference:ColorPickerPreference:1.0.0] C:\Users\Revant\.android\build-cache\a9fc5da18e969ed316e4533f9019f8430d93b0f2\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Revant\.android\build-cache\1e1016aa8c29db2c86c1de59a90dc67a86602ed3\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Revant\Desktop\manageexpensedelta-master\manageexpensedelta-master\app\src\main\AndroidManifest.xml
